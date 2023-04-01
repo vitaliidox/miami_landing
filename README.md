@@ -4,8 +4,7 @@
 
 ### The Miami landing page is a website page created to attract potential customers by advertising a service.
 ### A standard landing page has a thoughtful layout and a concise header.
-### The content of the page includes a description of services, detailed information about the company's <br />
-### offerings and social proof in the form of customer reviews.
+### The content of the page includes a description of services, detailed information about the company's offerings and social proof in the form of customer reviews.
 <br/>
 
 
