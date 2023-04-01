@@ -16,7 +16,7 @@
 - CSS/SCSS
 
 
-[Prevue Link](https://vitaliidox.github.io/react_people-table-basics/) <br/>
+[Prevue Link](https://vitaliidox.github.io/miami_landing/) <br/>
 [Figma design](https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=16033%3A3)
 
 ### Instructions:
